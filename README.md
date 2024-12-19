@@ -9,17 +9,13 @@ This repository contains a Streamlit web application that analyzes video metrics
 - **Interactive Visualizations:** Utilize Plotly for dynamic charts and graphs, showcasing daily performance, view comparisons, and audience demographics.
 
 ## Requirements
-To run this application, ensure you have the following installed:
-- Python 3.x
-- Streamlit
-- Pandas
-- NumPy
-- Plotly
+All the required packages for running this are included in the requirements.txt file
+
 
 You can install the necessary libraries using pip:
 
 ```bash
-pip install streamlit pandas numpy plotly
+pip install streamlit pandas numpy plotly...
 ```
 # Steps to run the code
 ##(01) Clone the Repository
